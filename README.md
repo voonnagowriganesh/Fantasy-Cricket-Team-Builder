@@ -1,1 +1,2 @@
-# Fantasy-Cricket-Team-Builder see the master Branch.
+# Fantasy-Cricket-Game
+Fantasy Cricket game
